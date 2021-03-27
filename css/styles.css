@@ -32,10 +32,7 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
-.reserve-card-header{
-    
-    color: floralwhite;
-}
+
 .reserve-card-body{
     font-weight:700;
 }
