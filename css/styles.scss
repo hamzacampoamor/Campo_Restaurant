@@ -1,7 +1,7 @@
 ////Variables
 $lt-grey: #ddd;
-$background-dark: #512DA8;
-$background-lite:#9575CD;
+$background-dark: #3d040c;
+$background-lite:#130009;
 $background-pale:#D1C4E9;
 //height  variables
 $carousel-item-height: 300px;
@@ -84,4 +84,9 @@ body {
 
 .modal-body {
     background: $background-pale;
+}
+
+.cardheading {
+    background: $background-dark;
+    color: floralwhite;
 }
